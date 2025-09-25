@@ -4,6 +4,8 @@ description: Dispersion in anartery
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/e6f1b998c5f3cea7b843f920ad0b319c_disparter.pdf
 file_size: 10306
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: MATLAB? simulation showing Rayleigh's Problem - Velocity profile du
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/f45a932118643929f81d91d3afdc6da6_velpro.gif
 file_size: 8499
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

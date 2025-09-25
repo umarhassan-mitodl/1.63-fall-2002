@@ -4,6 +4,8 @@ description: 7.3 The Shallow-Water Approximation
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/f5b50c328847ce889d44eecfe0901e60_73shallwat.pdf
 file_size: 50662
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

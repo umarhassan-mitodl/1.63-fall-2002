@@ -4,6 +4,8 @@ description: 3.3 Two dimensional laminar jet
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/50db0512642a085d8f49a18234276cf0_33lamjet.pdf
 file_size: 53091
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

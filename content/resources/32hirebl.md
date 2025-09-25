@@ -4,6 +4,8 @@ description: 3.2 Viscous Flow at High Reynolds Numbers
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/6677ae6c8bd76058c7b4c65fa55a59dd_32HiReBL.pdf
 file_size: 38014
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

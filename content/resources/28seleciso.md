@@ -4,6 +4,8 @@ description: 2.8 Selective withdrawal in an isothermal stratifed fluid
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/820abaedf3b9bfd834e23363abe5ee73_28seleciso.pdf
 file_size: 84225
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
