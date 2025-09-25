@@ -9,7 +9,7 @@ title: Assignments
 uid: c6e346b5-4e40-7683-cec6-2e232671cc3c
 ---
 
-This section contains the homework assignments for the course, which are assigned and organized by topics covered in the lecture notes. Many of the assignments have 1.63J/2.21J listed as the course number. This is the new course number as of Spring 2004, when the course will be offered as a joint course with the Mechanical Engineering Department, as part of an {{% resource_link "cda513b3-3862-4a64-86f0-4ef1898898b9" "iCampus" %}} school-wide {{% resource_link "3125a953-1a58-488d-b18f-5bef1363e0e0" "modular program on fluid mechanics" %}} at MIT.
+This section contains the homework assignments for the course, which are assigned and organized by topics covered in the lecture notes. Many of the assignments have 1.63J/2.21J listed as the course number. This is the new course number as of Spring 2004, when the course will be offered as a joint course with the Mechanical Engineering Department, as part of an [iCampus](http://icampus.mit.edu/) school-wide [modular program on fluid mechanics](http://web.mit.edu/fluids-modules/www/) at MIT.
 
 CHAPTER 1: BASICS
 -----------------
