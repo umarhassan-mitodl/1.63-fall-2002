@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains two Matlab simulations which illustrate important
   principles of fluid dynamics. Relevant sections of the lecture notes are also provided.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

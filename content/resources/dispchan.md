@@ -4,6 +4,8 @@ description: Dispersion in an open channel
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/7160ede6da361cf591f4ffe384b471e0_dispchan.pdf
 file_size: 13344
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 6.4 Geothermal convection in porous media
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/a371fb42b71a98b85881d5d03e3d8e21_64geoconvec.pdf
 file_size: 32330
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

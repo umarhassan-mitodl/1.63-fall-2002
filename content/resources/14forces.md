@@ -4,6 +4,8 @@ description: 1.4 Forces in the Fluid
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/207b0fbc8614ebc0a74c8e46d09f3758_14forces.pdf
 file_size: 60687
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

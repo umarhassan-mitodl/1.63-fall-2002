@@ -4,6 +4,8 @@ description: 3.6 Unsteady boundary layers
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/3e9a1c8221c51a886137f058c4abd9cb_36unsteady.pdf
 file_size: 27372
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

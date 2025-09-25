@@ -4,6 +4,8 @@ description: Ekman Layer Under Oscillatory Flow
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/db710291597e173af791e46eae567caf_8oscekman.pdf
 file_size: 19525
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
