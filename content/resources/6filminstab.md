@@ -4,8 +4,6 @@ description: Hele-Shaw Analogy Between Lubrication and Seepage
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/1be49d835d7db4aa4dec4710b08589a5_6filminstab.pdf
 file_size: 22623
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: 3.4 The effects of pressure gradient
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/0f824d4ef8bc662c56eb755476ed344f_34pressgrad.pdf
 file_size: 74328
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

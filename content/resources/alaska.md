@@ -4,8 +4,6 @@ description: Channel Flow Through a Geothermal Gradient
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/4f229d17bd60932f2272eb35b10ecb2b_alaska.pdf
 file_size: 194361
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

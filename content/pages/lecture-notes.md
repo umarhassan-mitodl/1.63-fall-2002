@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section contains the lecture notes which serve two purposes: to
   guide the lecture topics and to serve as the required course readings.'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

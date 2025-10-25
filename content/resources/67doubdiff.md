@@ -4,8 +4,6 @@ description: 6.7 Thermohaline instability in a porous layer-doubly-diffusive ins
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/7a71a1e8f09d000cad5e45a158d5481b_67Doubdiff.pdf
 file_size: 154870
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

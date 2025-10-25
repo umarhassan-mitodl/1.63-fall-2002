@@ -6,8 +6,6 @@ description: 'CHAPTER 6. SEEPAGE AND THERMAL EFFECTS
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/47962c42f9c2c96ef1c52e8de20ce9d7_61darcyEmp.pdf
 file_size: 59630
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

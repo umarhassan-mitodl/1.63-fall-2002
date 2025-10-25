@@ -4,8 +4,6 @@ description: CHAPTER 4. THERMAL EFFECTS IN FLUIDS - 4.1 Heat and energy conserva
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/20946c507055a595c44422b3616a83da_41energy.pdf
 file_size: 43961
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

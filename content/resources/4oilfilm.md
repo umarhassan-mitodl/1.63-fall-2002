@@ -4,8 +4,6 @@ description: Motion of Water Beneath a Spreading Oil Film
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/83aa7e8e19c36e342645bf96b9c4ef3c_4oilfilm.pdf
 file_size: 19817
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

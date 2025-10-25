@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/8a91713cc9bf78f6225ef92f121f478e_66Lapwoodbkd.pdf
 file_size: 118626
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

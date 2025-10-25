@@ -4,8 +4,6 @@ description: Oil Slick On the Sea Survace
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/d00daa98e84562a5c8894049ea9dfc6b_oilslick.pdf
 file_size: 255977
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

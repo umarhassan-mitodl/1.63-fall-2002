@@ -6,8 +6,6 @@ description: '4.6 Dispersion of supension in a steady shear
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/9a3de12c8dae4665c64f93f71b9763f3_46disperstbkd.pdf
 file_size: 85603
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

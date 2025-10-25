@@ -4,8 +4,6 @@ description: 2.7 Aerosols and coagulation
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/e545246b3cd1722fd35a1fa12bda8987_27Aerosol.pdf
 file_size: 72852
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
